@@ -1,0 +1,31 @@
+body{
+    background-color: #4c9967;
+}
+
+body div header{
+    color:#435068;
+}
+
+body div{
+    text-align: center;
+}
+
+body div img{
+    height:300px;
+    width:400px;
+}
+
+h2 {
+	text-align: center;
+	color:silver;
+	font-size: 350%;
+	font-family: Georgia, "Serif";
+
+}
+
+p {
+	text-align: center;
+	color: white;
+	font-size: 125%;
+	font-family: "Times";
+}
